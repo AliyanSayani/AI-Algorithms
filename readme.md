@@ -1,5 +1,5 @@
 # Algorithms
 
-     - K_means Algorithm
-     - MLP Algorithm
-     - Decision Algorithm
+      K_means Algorithm
+      MLP Algorithm
+      Decision Algorithm
